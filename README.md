@@ -9,7 +9,7 @@
 - [**Credits**](#credits)
 
 ## Description
-This project was inspired by dataTH's data pipeline workshop. In the dataTH's workshop they use airflow on the **Google Cloud Platform** to provide a airflow that schedule a ETL process and create a dashboard with **Looker Studio** from data that stored in Datawarehouse (e.g. **BigQuery**). However I realized that they had do whole stuff of a ETL process in airflow which makes a long compute time when facing with a large data.  Therefore I decide to using **Dataproc** for *Extract* and *Process* data from that will optimize  compute time of pipeline.
+This project was inspired by dataTH's data pipeline workshop. This workshop was about to extract bookstore data and construct a ETL pipeline to processing transaction data of customer who buy a book from bookstore to creating a dashboard for business team to figured out which book product that have more impact in bookstore. In the dataTH's workshop they use airflow on the **Google Cloud Platform** to provide a airflow that schedule a ETL process and create a dashboard with **Looker Studio** from data that stored in Datawarehouse (e.g. **BigQuery**). However I realized that they had do whole stuff of a ETL process in airflow which makes a long compute time when facing with a large data.  Therefore I decide to using **Dataproc** for *Extract* and *Process* data from that will optimize  compute time of pipeline.
 
 ## Pipeline Diagram
 ```mermaid

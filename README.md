@@ -28,7 +28,7 @@ This project was inspired by dataTH's data pipeline workshop. This workshop was 
 	 - Dataproc (Processing tool)
 	 - BigQuery (Datawarehouse)
 	 - Looker Studio (Building dashboard)
-**Note :** This project had made on the *Google Cloud Platform* it maybe have a different step when do on a local machine that will not discussion in this project.
+**Note :** This project had made on the *Google Cloud Platform* it maybe have a different step when do on a local machine that will not discuss in this project.
 
 ## Requirement
 - having a GCP account to access all of the resource for using in this project
